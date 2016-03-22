@@ -1,2 +1,2 @@
 # beamer-template
-A beamer template for math conference presentaion
+A beamer template for scientific conference presentation.
